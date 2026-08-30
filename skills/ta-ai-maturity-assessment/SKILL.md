@@ -309,5 +309,5 @@ not need it.
 
 ---
 
-*Part of the [People Leader Skills](https://github.com/) collection — open-source skills
+*Part of the [People Leader Skills](REPO_URL) collection — open-source skills
 for in-house talent and people teams. Built and maintained by the team at MOVE.*
