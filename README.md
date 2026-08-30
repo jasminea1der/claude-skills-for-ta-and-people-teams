@@ -1,4 +1,4 @@
-# People Leader Skills
+# Claude Skills for TA and People Teams
 
 A collection of open-source Claude skills for in-house talent acquisition and people teams.
 
