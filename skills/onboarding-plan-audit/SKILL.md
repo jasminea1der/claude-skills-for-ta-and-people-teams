@@ -349,5 +349,5 @@ ratings side.
 
 ---
 
-*Part of the [Claude Skills for TA and People Teams](REPO_URL) collection — open-source skills
+*Part of the [Claude Skills for TA and People Teams](https://github.com/we-are-move/claude-skills-for-ta-and-people-teams) collection — open-source skills
 for in-house talent and people teams. Built and maintained by the team at MOVE.*
