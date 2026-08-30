@@ -302,9 +302,9 @@ proper pay equity analysis run through counsel — in several jurisdictions that
 privileged work product when run that way, and doing it informally first forfeits that.
 
 **Keep protected characteristics out of levelling entirely.** Level against scope and
-evidence only. Where the mapping exercise produces a distribution that looks skewed — for
-example, women or a minority group clustered at lower levels than their tenure would
-suggest — treat that as a signal to examine the criteria and the historic promotion
+evidence only. Where the mapping exercise produces a distribution that looks skewed — any
+group defined by a protected characteristic clustered at lower levels than tenure and scope
+would explain — treat that as a signal to examine the criteria and the historic promotion
 decisions, not as something to correct by adjusting individuals' levels.
 
 **Jurisdiction and data.** Titles, levels and pay bands interact with local employment law,

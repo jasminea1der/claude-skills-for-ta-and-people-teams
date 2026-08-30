@@ -18,7 +18,7 @@ meeting, and the legal one is what makes it non-negotiable:
 ## Contents
 
 - [How to run the audit](#how-to-run-the-audit)
-- [1. Masculine-coded and combative language](#1-masculine-coded-and-combative-language)
+- [1. Vague signalling language that narrows your pool](#1-vague-signalling-language-that-narrows-your-pool)
 - [2. Superlatives and mythical-creature language](#2-superlatives-and-mythical-creature-language)
 - [3. Degree requirements](#3-degree-requirements)
 - [4. Years of experience](#4-years-of-experience)
@@ -53,23 +53,26 @@ whether the sentence describes the work or describes a personality type.
 
 ---
 
-## 1. Masculine-coded and combative language
+## 1. Vague signalling language that narrows your pool
 
 **The pattern.** Adverts that cluster competitive, dominance and lone-hero vocabulary:
 *aggressive, dominant, competitive, driven, relentless, fearless, hunter, crush, smash,
 dominate, battle-tested, killer instinct, ruthless, best-of-breed, elite*.
 
-**Why it costs applications.** This register narrows the pool that self-selects in. An
-advert weighted toward agentic, competitive vocabulary reads as a description of the culture
-rather than of the work, and a reader decides whether they would belong there long before
-they reach the requirements — so you lose applications from people who could do the job, on
-a signal that says nothing about whether they can. Many strong candidates read that register
-as a culture warning, and they are often reading it correctly. In sales roles particularly,
-this vocabulary is inherited rather than chosen; nobody in the business would defend it if
-asked.
+**Why it costs applications.** None of it describes the job. It describes a vibe, so the
+reader finishes the advert knowing nothing about what they would actually do or whether
+they would be good at it — and an advert carrying no information about the work cannot be
+self-screened against. What it does instead is signal, and signalling narrows the response
+to people who like the signal rather than people who can do the work. That is a smaller
+pool and a less relevant one: fewer applications, and more screening time spent on the ones
+that do arrive. It also reads as a culture warning to experienced senior candidates, who
+are the hardest people to attract and the quickest to disqualify an employer on a single
+line. In sales roles particularly, this vocabulary is inherited rather than chosen; nobody
+in the business would defend it if asked.
 
-**What to write instead.** Describe the work and its measurable outcome, not the
-temperament of the person doing it.
+**What to write instead.** Every one of these words has a specific operational fact
+underneath it. Write the fact — the work and its measurable outcome, not the temperament of
+the person doing it.
 
 | Instead of | Write |
 |---|---|
@@ -92,12 +95,11 @@ best-in-class, exceptional, world-beating, elite, 10x, passionate.*
 
 **Why it costs applications.** Three separate costs. It carries no information — every
 company claims to want exceptional people, so the words do no discriminating work. It reads
-as unserious to senior candidates, who are the audience the advert most needs. And
-self-identification as a "rockstar" or "A-player" is unevenly distributed in ways that have
-nothing to do with capability: people who assess themselves conservatively, and people from
-groups who have learned that overclaiming carries a penalty, do not apply to adverts asking
-for a superstar. "Ninja" and "guru" also carry cultural and religious appropriation problems
-that are simply not worth the argument.
+as unserious to senior candidates, who are the audience the advert most needs. And it
+screens on self-description rather than on capability: whether someone will call themselves
+a rockstar tells you how they talk about themselves, not what they have delivered, so the
+advert selects on a trait you would never put in a scorecard. "Ninja" and "guru" also carry
+cultural and religious appropriation problems that are simply not worth the argument.
 
 "Passionate" deserves its own note. It is the most common word in job adverts and one of
 the emptiest, and where it means anything it often means "willing to work unpaid hours".
@@ -122,10 +124,12 @@ held to.
 **Why it costs applications.** For most commercial, technical, operational and creative
 roles there is no evidence that a degree predicts performance once you can assess the work
 directly — and you can, with a work sample. What a degree requirement reliably does is
-filter on socioeconomic background, and in many markets on race and on age, because degree
-attainment tracks all three. University-tier requirements do this more sharply still.
-Meanwhile it excludes the self-taught, career changers, apprenticeship and bootcamp routes,
-and anyone whose country's qualifications do not map neatly onto the phrasing.
+filter on who had access to a university place, which is not the same question as who can
+do the job; university-tier requirements narrow it further, to a handful of institutions.
+It excludes the self-taught, career changers, apprenticeship and bootcamp routes, and anyone
+whose country's qualifications do not map neatly onto the phrasing. And where a requirement
+that is not essential to the role screens on grounds that track a protected characteristic,
+it is legal exposure taken on for no gain in predictive power.
 
 A large number of major employers have removed degree requirements from most roles over the
 last few years. It is no longer an unusual position and it is easy to defend.
@@ -138,7 +142,7 @@ instead.
 | "Bachelor's degree in Computer Science or related field" | Nothing. Assess the code. |
 | "Degree in Marketing or equivalent experience" | "You've run paid acquisition with a budget you were accountable for." |
 | "MBA preferred" | Delete, or if you mean commercial fluency: "You can build and defend a business case in front of a CFO." |
-| "2:1 from a top-tier university" | Delete. This is a class filter, not a capability filter. |
+| "2:1 from a top-tier university" | Delete. This filters on institution, not on capability. |
 
 **The genuine exceptions.** Some roles require a specific qualification by law or by
 professional regulation — practising lawyers, doctors, chartered accountants, registered
@@ -189,9 +193,10 @@ converts the threshold from a barrier into a calibration hint.
 driving licence required", "must be able to work at height", pasted into adverts for desk
 roles because the template had them.
 
-**Why it costs applications.** Where the requirement is not genuinely essential, it deters
-disabled candidates and creates direct legal exposure — most disability discrimination
-regimes require that requirements be genuinely essential and that adjustments be considered.
+**Why it costs applications.** Where the requirement is not genuinely essential, it screens
+out people who could do the job perfectly well, with or without an adjustment, and it
+creates direct legal exposure — most disability discrimination regimes require that
+requirements be genuinely essential and that adjustments be considered.
 It also frequently does not survive contact with reality: the lifting line on a product
 manager advert has been copied forward from a warehouse template for six years and nobody
 has noticed.
@@ -222,9 +227,10 @@ family", "always-on culture", "we work hard and we're not for everyone", "fast-p
 discrimination in most jurisdictions and are read that way whether or not it was intended;
 "digital native" is a standard example in age discrimination guidance. Beyond the legal
 point, this register describes a lifestyle rather than a job: heavy social expectations,
-evening commitments and blurred boundaries. That deters carers, parents, disabled
-candidates, people who do not drink, older candidates and, increasingly, anyone senior
-enough to have been in one of these cultures before.
+evening commitments and blurred boundaries. It tells the reader nothing about the work, and
+it asks them to opt into commitments outside it — so the people who respond are the ones
+who want the lifestyle, not the ones who can do the job. Anyone senior enough to have been
+inside one of these cultures before reads it as a warning.
 
 "Like a family" is worth flagging separately — candidates read it as boundary-blurring and
 as a warning about how difficult conversations get handled. "Fast-paced" has been used to
@@ -254,9 +260,9 @@ and consultant vocabulary ("synergies", "leverage", "operationalise", "north sta
 **Why it costs applications.** Jargon is a competence test the reader did not sign up for.
 An acronym wall tells a capable person who has done exactly this work under different
 vocabulary that they are an outsider — and the people most likely to be excluded are career
-changers, people from adjacent industries, and people from other countries, all of which are
-pools you probably want. Internal grade labels are worse: they are meaningless externally and
-make the role hard to price and hard to find in search.
+changers and people from adjacent industries, both of which are pools you probably want.
+Internal grade labels are worse: they are meaningless externally and make the role hard to
+price and hard to find in search.
 
 **What to write instead.**
 
@@ -307,9 +313,10 @@ comfortable with ambiguity", "strong attention to detail", "outgoing and persona
 **Why it costs applications.** These blend genuine job requirements with personality and
 sensory preferences. Many are not requirements of the work at all — "confident presenter"
 appears on adverts for roles that never present. Where the requirement is not real, it
-deters disabled and neurodivergent candidates, and candidates who work in a second language,
-for no gain. "Attention to detail" is the most-copied bullet in recruitment and is almost
-never assessed.
+filters on personality and sensory preference rather than on the work, which costs you
+capable applicants for nothing — and where the trait it screens on relates to a disability,
+it is legal exposure as well. "Attention to detail" is the most-copied bullet in recruitment
+and is almost never assessed.
 
 **What to write instead.** Name the specific communication or working task, and say how the
 job actually gets done.
@@ -357,9 +364,9 @@ of X", "always available for our US clients".
 **Why it costs applications.** Vague availability demands are read as unlimited by cautious
 readers and ignored by confident ones, which produces exactly the wrong self-selection.
 Undefined "hybrid" is the single most common cause of late-stage drop-out because both sides
-assume their own version and find out at offer. Blanket travel and evening requirements deter
-carers and disabled candidates disproportionately, and are usually overstated by the hiring
-manager.
+assume their own version and find out at offer. Blanket travel and evening requirements are
+almost always overstated by the hiring manager, and an unbounded commitment costs you people
+who could comfortably have met the real one.
 
 **What to write instead.** Numbers.
 
@@ -380,9 +387,9 @@ culture", "we welcome applications from all backgrounds", "we're an equal opport
 employer" standing alone as the whole inclusion content.
 
 **Why it costs applications.** Not that it deters — it does nothing, which is the problem.
-Every competitor has the identical paragraph, so candidates from underrepresented groups
-have learned to skip it and look for evidence instead. A claim occupies the space where
-evidence could have been.
+Every competitor has the identical paragraph, so it carries no information and readers skip
+it and look for evidence instead. A claim occupies the space where evidence could have
+been.
 
 **What to write instead.** Describe practices, which are checkable.
 
@@ -406,7 +413,7 @@ Report findings in a table, in the diagnosis section, with the actual text quote
 
 | Phrase in the original | Pattern | Cost | Replacement |
 |---|---|---|---|
-| "aggressive, driven hunter" | Masculine-coded | Fewer applications from women; reads as a culture warning to senior candidates generally | "You'll open new accounts from a cold territory — about 60% of your number is new business." |
+| "aggressive, driven hunter" | Vague signalling | Says nothing about the work, so it draws fewer and less relevant applications and adds screening time; reads as a culture warning to senior candidates | "You'll open new accounts from a cold territory — about 60% of your number is new business." |
 | "8+ years' experience" | Years-as-proxy, age proxy | Deters capable people below the line and strong people above it; legal exposure in several jurisdictions | "You've owned a product with revenue attached and shipped through a replatform." |
 | "Bachelor's degree required" | Socioeconomic filter | Excludes self-taught, career changers and apprenticeship routes for no gain in predictive power | Delete; assess the work sample. |
 

@@ -171,13 +171,19 @@ individual ratings.
 ## Language asymmetry in written reviews
 
 **What it is.** The same performance described in systematically different language
-depending on who is being described. The patterns to read for: personality-focused
-language and communal descriptors applied more often to women, achievement-focused and
-agentic language applied more often to men; identical assertive behaviour described as
-"decisive" for one person and "abrasive" for another; more references to attitude, effort
-and manner, and fewer to results, for some groups than others; and vaguer, shorter,
+depending on who is being described. This is not an external finding to apply to the room;
+it is a reading of your own cycle's text. Pull the written rationales and compare the
+language used across groups: whose contributions are described as effort, luck or support
+received, and whose are described as judgement, ownership and results. Look for identical
+behaviour described in different terms for different people — the same assertiveness as
+"decisive" in one rationale and "abrasive" in another; more references to attitude, effort
+and manner, and fewer to results, in one set than another; and vaguer, shorter,
 lower-specificity feedback given to people the manager is less comfortable with, which
 deprives them of the concrete guidance others get.
+
+A pattern found this way is a signal to investigate the process — the standard, the
+rationales and the evidence behind them. It is never a basis for adjusting an individual's
+rating, which on a protected basis is unlawful in either direction.
 
 **How it presents.** Read the rationales side by side and it becomes visible immediately.
 One set is full of verbs about what was delivered; the other is full of adjectives about
@@ -220,12 +226,14 @@ they wrote, which is a defensible and much more useful discussion.
 
 ## Leave, reduced hours and flexible arrangements
 
-**What it is.** People who were on parental, medical, carer's or other leave during the
-period, people working reduced hours, and people with flexible or adjusted arrangements are
-systematically under-rated. It happens through several mechanisms at once: their output
-volume is compared to a full-period colleague's; their reduced availability is read as
-reduced commitment; they are absent from the visible moments; and the manager's evidence
-about them is thinner, which — see proximity — reads as weaker performance.
+**What it is.** A rating that turns on time absent or hours worked rather than on the work
+done. It affects people who were on parental, medical, carer's or other leave during the
+period, people working reduced hours, and people with flexible or adjusted arrangements,
+and several mechanisms push the same way at once: their output volume is compared to a
+full-period colleague's; their reduced availability is read as reduced commitment; they are
+absent from the visible moments; and the manager's evidence about them is thinner, which —
+see proximity — reads as weaker performance. Whether it is happening here is answerable
+from your own cuts, below.
 
 This is the pattern with the sharpest legal edge of any in this file. In most
 jurisdictions, less favourable treatment connected to pregnancy, maternity, part-time
@@ -320,11 +328,14 @@ people over five years, both of which distort in predictable directions.
 failure attributed to circumstance for some and to the person for others. The same events,
 two different causal stories.
 
-**How it presents.** "She was lucky with that project" alongside "he turned that project
-around". "The market made it hard for him" alongside "she did not handle the market well".
+**How it presents.** Two rationales covering the same kind of outcome: "person A was lucky
+with that project" alongside "person B turned that project around". "The market made it
+hard for person B" alongside "person A did not handle the market well". The contrast to
+read for is effort, luck and support received on one side; judgement, ownership and result
+on the other.
 
 **What it sounds like.** Causal language that shifts by person: *they delivered it* versus
-*it landed well for them*; *he made a call* versus *she got support on that*.
+*it landed well for them*; *A made the call* versus *B got support on that*.
 
 **The intervention.**
 

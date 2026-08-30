@@ -103,8 +103,8 @@ Once mapped, look at the shape. Two things to check:
 - **Does the distribution make sense?** A function where three quarters of people map to
   the top two levels has either a level count problem or a bar problem. Fix it now, not
   after the levels are communicated.
-- **Does anything look skewed by group?** If women, or any group defined by a protected
-  characteristic, cluster at lower levels than their tenure and role would suggest, that is
+- **Does anything look skewed by group?** If any group defined by a protected
+  characteristic is clustered at lower levels than tenure and scope would explain, that is
   a signal to re-examine the criteria and the historic decisions that got people here. It
   is not a signal to adjust individuals' levels to balance the distribution — doing that is
   both a legal problem and an unfair one. Raise it with counsel and treat it as a question

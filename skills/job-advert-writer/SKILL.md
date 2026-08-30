@@ -140,11 +140,12 @@ without it?* If yes, it is not a must-have.
 
 ### 4. Run the language audit
 
-Read `references/language-audit.md` and apply it. It covers masculine-coded and superlative
-language, degree requirements functioning as socioeconomic filters, years-of-experience
-thresholds standing in for capability (and acting as an age proxy), physical requirements
-that are not genuinely essential, culture language that proxies for age or lifestyle, and
-insider jargon and acronyms. For each pattern it gives the replacement, not just the flag.
+Read `references/language-audit.md` and apply it. It covers vague signalling language and
+superlatives, degree requirements filtering on access rather than capability,
+years-of-experience thresholds standing in for capability (and acting as an age proxy),
+physical requirements that are not genuinely essential, culture language that proxies for
+age or lifestyle, and insider jargon and acronyms. For each pattern it gives the
+replacement, not just the flag.
 
 Make the commercial argument alongside the legal one, because the commercial one is what
 gets the edit accepted: this language costs applications and narrows the pool it does
