@@ -18,6 +18,26 @@ Do not mix application-to-hire and requisition-open-to-acceptance in one metric.
 definitions are intentionally separate: one describes the candidate journey and the other
 describes how long a vacancy remains open.
 
+## Hire, offer acceptance and start dates
+
+Keep these as separate fields in the export:
+
+- **Offer date** — when the offer was issued.
+- **Offer acceptance date** — when the candidate accepted the offer. Use this for the
+  standard time-to-fill calculation because it marks the point at which the vacancy was
+  filled. It is not the hire date.
+- **Hire date** — the date SuccessFactors records the application or candidate as hired,
+  provided the local configuration gives that event a distinct, reliable date.
+- **Start date** — the employee's actual employment start date, if available. Do not use it
+  as hire date unless the organisation has explicitly defined hire as start.
+
+For this reporting pack, use `offer_acceptance_date` for **time to fill** and
+`hire_date` for **total hires** and **time to hire**. Confirm with the SuccessFactors
+administrator whether the local “Hire Date” field means the ATS hired-status date, an
+employee hire date, or the planned start date. If no separate hire event exists, use the
+offer acceptance date as a documented fallback for `hire_date`; do not present the
+fallback as a confirmed hire-date measure.
+
 ## Measures and formulas
 
 | Report | Measure | Formula |
