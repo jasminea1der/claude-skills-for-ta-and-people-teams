@@ -2,7 +2,7 @@
 
 A collection of open-source Claude skills for in-house talent acquisition and people teams.
 
-Eleven skills that do the work a Head of Talent Acquisition or Chief People Officer would
+Twelve skills that do the work a Head of Talent Acquisition or Chief People Officer would
 otherwise spend half a day on: the hiring manager intake, the interview kit, the process
 audit, the business case, the career framework, the calibration cycle, the survey action
 plan, the vendor evaluation, the onboarding plan, the job advert, and an assessment of how
@@ -24,6 +24,7 @@ matters, no filler, no fabricated benchmarks.
 | [`interview-process-audit`](skills/interview-process-audit/) | An audit of your whole loop — where the calendar days actually go, which stages are redundant, drop-off risk, interviewer hours per hire, and a redesigned process. |
 | [`job-advert-writer`](skills/job-advert-writer/) | A diagnosis of your job spec and a rewrite that a passive candidate would respond to, with channel variants for careers site, LinkedIn, outreach and referral. |
 | [`headcount-business-case`](skills/headcount-business-case/) | The case that gets approved — cost of inaction, options rejected, fully-loaded cost, and the CFO objections pre-empted. |
+| [`successfactors-ta-reporting`](skills/successfactors-ta-reporting/) | Downloadable SuccessFactors TA CSV reports — hiring KPIs, trends, funnel conversion, source and department analysis, open positions, and time to fill by role type. |
 
 ### For the wider people function
 
