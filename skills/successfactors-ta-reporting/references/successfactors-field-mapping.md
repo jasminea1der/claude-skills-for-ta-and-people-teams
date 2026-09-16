@@ -45,3 +45,33 @@ and map the local export to them; confirm the mapping before publishing metrics.
 Keep a mapping table in the delivery note with `source_field`, `canonical_field`,
 `transformation`, and `confirmed_by`. Unmapped required fields should be listed as gaps,
 not silently omitted.
+
+## Arnott's hires/offers export
+
+For the reported SuccessFactors fields, use this initial mapping:
+
+| SuccessFactors field | Canonical field | Use |
+|---|---|---|
+| `Application: Application ID` | `application_id` | Join key and unique application count |
+| `Application: Job Req ID` | `requisition_id` | Join key to requisition data |
+| `Application: Recruited On` | `hire_date` (provisional) | Total hires and time to hire, only after confirming this is the date the application entered the hired/recruited outcome |
+| `Offer Letter: Created Date` | `offer_date` | Offer volume and offer timing |
+| `Offer Detail: Start Date` | `start_date` | Optional start-date validation; not the default hire date |
+| `Offer Letter: Candidate Offer Response Date` | `offer_acceptance_date` (provisional) | Time to fill and offer-decision timing; confirm it is populated for both accepted and declined responses |
+| `Offer Letter: Offer Status` | `offer_status` | Accepted, declined, pending, withdrawn or expired outcome |
+
+This export is not sufficient by itself for:
+
+- **Time to hire**, because it still needs `application_received_date` from an application
+  received/applied date field.
+- **Time to fill**, because it still needs `requisition_open_date`.
+- **Source of hire**, unless a source field is added.
+- **Hires by department, location or TA partner**, unless those requisition fields are
+  added or joined from a requisition export.
+- **The full recruitment funnel**, unless status history with status dates is added.
+
+Before using `Recruited On` as `hire_date`, confirm whether “Recruited” is the final hired
+outcome in this SuccessFactors instance or an earlier recruiting status. Before using
+Candidate Offer Response Date for `offer_acceptance_date`, confirm that the same field
+records the response date for declined offers; the acceptance rate denominator requires
+all decided offers, not only accepted ones.
