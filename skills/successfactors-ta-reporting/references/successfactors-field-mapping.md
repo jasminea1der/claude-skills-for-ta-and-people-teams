@@ -54,10 +54,10 @@ For the reported SuccessFactors fields, use this initial mapping:
 |---|---|---|
 | `Application: Application ID` | `application_id` | Join key and unique application count |
 | `Application: Job Req ID` | `requisition_id` | Join key to requisition data |
-| `Application: Recruited On` | `hire_date` (provisional) | Total hires and time to hire, only after confirming this is the date the application entered the hired/recruited outcome |
+| `Application: Recruited On` | `hire_date` | Confirmed by the user as the date the application entered the final hired/recruited outcome |
 | `Offer Letter: Created Date` | `offer_date` | Offer volume and offer timing |
 | `Offer Detail: Start Date` | `start_date` | Optional start-date validation; not the default hire date |
-| `Offer Letter: Candidate Offer Response Date` | `offer_acceptance_date` (provisional) | Time to fill and offer-decision timing; confirm it is populated for both accepted and declined responses |
+| `Offer Letter: Candidate Offer Response Date` | `offer_acceptance_date` | Confirmed by the user as populated for both accepted and declined responses; use with `offer_status` for decided offers |
 | `Offer Letter: Offer Status` | `offer_status` | Accepted, declined, pending, withdrawn or expired outcome |
 
 This export is not sufficient by itself for:
@@ -70,8 +70,40 @@ This export is not sufficient by itself for:
   added or joined from a requisition export.
 - **The full recruitment funnel**, unless status history with status dates is added.
 
-Before using `Recruited On` as `hire_date`, confirm whether “Recruited” is the final hired
-outcome in this SuccessFactors instance or an earlier recruiting status. Before using
-Candidate Offer Response Date for `offer_acceptance_date`, confirm that the same field
-records the response date for declined offers; the acceptance rate denominator requires
-all decided offers, not only accepted ones.
+The user confirmed that “Recruited” is the final hired outcome in this SuccessFactors
+instance and that Candidate Offer Response Date is populated for both accepted and
+declined offers. Use these mappings unless the SuccessFactors configuration changes.
+
+## Recruitment funnel source report
+
+Create a separate **application status history** report in SuccessFactors. Do not build the
+funnel from the hires/offers report: that report contains outcomes, but not every stage an
+application passed through or the date it reached each stage.
+
+Select the report object or columns that expose one row per application-status event, with
+at least:
+
+| Required field | Why it is needed |
+|---|---|
+| `Application: Application ID` | Unique funnel unit and join key |
+| `Application: Job Req ID` | Requisition join key and filtering |
+| `Application: Application Status` or status label | Map local statuses to Applications, Screened, Interviewed, Offered and Hired |
+| `Application: Status Change Date` or event date | Identify when each stage was first reached |
+| `Application: Application Received/Applied Date` | Period scope and Applications stage |
+| TA Partner/recruiter | TA Partner filter |
+| Department | Department filter and breakdown |
+| Location | Location filter and breakdown |
+
+If the SuccessFactors report builder cannot expose status history as multiple rows per
+application, export the application audit trail/status audit report instead. The critical
+requirement is repeated rows for the same Application ID, one for each status transition,
+not just the current status. Also export the local status labels exactly as configured so
+they can be mapped in `StatusMapping`.
+
+Map the local statuses to the canonical funnel:
+
+`Applications > Screened > Interviewed > Offered > Hired`
+
+Count an application once at each stage it reached, using the first status-change date for
+that stage. The hires/offers report can validate the `Hired` stage and offer outcomes, but
+the status-history report is the source of truth for the full funnel.
